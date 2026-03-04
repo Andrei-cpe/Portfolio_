@@ -36,7 +36,7 @@ const about = () => {
             and problem solving. I am seeking a competitive environment and an
             entry-level IT role where I can grow professionally while
             contributing my skills and knowledge along the way. I look forward
-            to getting in touch with you soonnnnn.
+            to getting in touch with you soon.
           </p>
         </div>
         <div className="flex justify-start sm:justify-end">
