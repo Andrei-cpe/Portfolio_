@@ -6,7 +6,7 @@ const about = () => {
   };
 
   return (
-    <div className="w-full px-10 sm:px-20 lg:px-40 pb-8 sm:pb-12 lg:pb-16">
+    <div className=" w-full px-10 sm:px-20 lg:px-40 p-8 sm:p-12 lg:p-16">
       <style>{`
         @keyframes bounce {
           0%, 100% { transform: translateY(0); }
@@ -28,7 +28,7 @@ const about = () => {
       `}</style>
       <div className="max-w-7xl mx-auto">
         <div className="mb-8 sm:mb-12 lg:mb-16">
-          <h1 className="text-[clamp(2.5rem,5vw,3rem)] font-poppins text-gray-800 font-bold tracking-wide mb-4 sm:mb-6">
+          <h1 className="text-[2.5rem] sm:text-[5rem] font-poppins text-gray-800 font-bold tracking-wide mb-4 sm:mb-6">
             about <span className="text-gray-500">me</span>.
           </h1>
           <p className="text-black font-poppins text-[clamp(0.875rem,2vw,1.125rem)] tracking-wide leading-relaxed">
@@ -39,8 +39,8 @@ const about = () => {
             to getting in touch with you soon.
           </p>
         </div>
-        <div className="flex justify-start sm:justify-end">
-          <h2 className="text-black font-semibold font-poppins text-[clamp(.2rem,4vw,1rem)] tracking-wide">
+        <div className="flex justify-end sm:justify-end">
+          <h2 className="text-black font-semibold font-poppins text-[.8rem] sm:text-lg tracking-wide">
             let's turn those idea into reality.
           </h2>
         </div>

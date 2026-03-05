@@ -45,7 +45,7 @@ const projects = () => {
       <div className="floating-dot dot-sm" style={{ left: '30%', top: '80%', animationDelay: '3s' }}></div>
       <div className="floating-dot dot-lg" style={{ left: '60%', top: '50%', animationDelay: '5s' }}></div>
       <div className="floating-dot dot-md" style={{ left: '40%', top: '10%', animationDelay: '7s' }}></div>
-      <h1 className="text-[clamp(1rem,6vw,7rem)] text-white font-poppins text-center font-bold relative z-10">
+      <h1 className="text-[clamp(2.5rem,6vw,7rem)] p-2 text-white font-poppins text-center font-bold relative z-10">
         Where creativity meets hardwork
       </h1>
     </div>
